@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data & ML
+data/
+datasets/
+*.csv
+*.pkl
+*.joblib
+
+*.txt
+*.zip
+CF403F10
+models/
+# Env
+.env
